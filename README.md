@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Bootstrap template for a Bakery company.
+
 Techonologies Used: HTML 5, CSS 3, Bootstrap, jQuery, and Lighbox
 ## Demo
 
